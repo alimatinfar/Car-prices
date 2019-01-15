@@ -1,4 +1,4 @@
-
+mysql-connector-python==8.0.13
 beautifulsoup4==4.6.3
 bs4==0.0.1
 ipython==7.1.1
